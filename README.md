@@ -61,7 +61,9 @@ Once the program starts:
 ✅ Completed Tasks: [
   { id: 1, title: "Study JavaScript", description: "Finish array lesson", status: "done" }
 ]
-🎮 Interaction Instructions
+
+
+##🎮 Interaction Instructions
 Click OK to add a new task when prompted.
 
 Click Cancel if you don’t want to add more tasks.
@@ -70,7 +72,7 @@ Enter valid text inputs for each prompt — blank inputs will be rejected.
 
 Use the console logs to view all tasks or filter completed ones.
 
-🧠 Developer Notes
+##🧠 Developer Notes
 This project was designed to:
 
 Reinforce JavaScript fundamentals through practical application.
@@ -79,12 +81,7 @@ Demonstrate effective use of arrays, objects, functions, and validation loops.
 
 Encourage clean, readable code and user-friendly console interactions.
 
-👩🏽‍💻 Author
+##👩🏽‍💻 Author
 Zinhle Hadebe
 JavaScript Student | Developer in Progress | Passionate About Clean Code & Learning
 
-
-
-**Console Log of all and completed tasks**
-
-![console log](./explainer-images/console%20log.png)
