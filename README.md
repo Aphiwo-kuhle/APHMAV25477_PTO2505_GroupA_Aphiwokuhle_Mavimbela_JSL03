@@ -63,7 +63,7 @@ Once the program starts:
 ]
 
 
-##🎮 Interaction Instructions
+🎮 Interaction Instructions
 Click OK to add a new task when prompted.
 
 Click Cancel if you don’t want to add more tasks.
@@ -72,7 +72,7 @@ Enter valid text inputs for each prompt — blank inputs will be rejected.
 
 Use the console logs to view all tasks or filter completed ones.
 
-##🧠 Developer Notes
+🧠 Developer Notes
 This project was designed to:
 
 Reinforce JavaScript fundamentals through practical application.
@@ -81,7 +81,8 @@ Demonstrate effective use of arrays, objects, functions, and validation loops.
 
 Encourage clean, readable code and user-friendly console interactions.
 
-##👩🏽‍💻 Author
-Zinhle Hadebe
+👩🏽‍💻 Author
+Aphiwokuhle Mavimbela
+
 JavaScript Student | Developer in Progress | Passionate About Clean Code & Learning
 
