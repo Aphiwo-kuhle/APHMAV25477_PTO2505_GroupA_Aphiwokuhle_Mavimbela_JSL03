@@ -80,6 +80,10 @@ Reinforce JavaScript fundamentals through practical application.
 Demonstrate effective use of arrays, objects, functions, and validation loops.
 #mgezi
 
+
+
+# ywbo
+
 Encourage clean, readable code and user-friendly console interactions.
 
 👩🏽‍💻 Author
