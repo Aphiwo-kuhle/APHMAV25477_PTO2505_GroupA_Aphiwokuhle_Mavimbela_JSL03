@@ -78,6 +78,7 @@ This project was designed to:
 Reinforce JavaScript fundamentals through practical application.
 
 Demonstrate effective use of arrays, objects, functions, and validation loops.
+#mgezi
 
 Encourage clean, readable code and user-friendly console interactions.
 
