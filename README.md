@@ -50,18 +50,10 @@ Once the program starts:
    - **All Tasks:** A full list of all tasks.  
    - **Completed Tasks:** Only the tasks marked as `"done"`.  
 
-### Example Output (Console)
-```javascript
-📋 All Tasks: [
-  { id: 1, title: "Study JavaScript", description: "Finish array lesson", status: "done" },
-  { id: 2, title: "Clean room", description: "Tidy up and organize desk", status: "doing" },
-  { id: 3, title: "Buy groceries", description: "Milk, eggs, bread", status: "todo" }
-]
 
-✅ Completed Tasks: [
-  { id: 1, title: "Study JavaScript", description: "Finish array lesson", status: "done" }
-]
+**Console Log of all and completed tasks**
 
+![console log](./explainer-images/console%20log.png)
 
 🎮 Interaction Instructions
 Click OK to add a new task when prompted.
